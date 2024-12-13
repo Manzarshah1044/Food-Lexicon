@@ -217,6 +217,6 @@ body::-webkit-scrollbar-track{
     }
     .recipe-details{
       width : 90%;
-      height: 30%;
+      height: 50%;
     }
  }
